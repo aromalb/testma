@@ -1,0 +1,13 @@
+{
+  "name": "morningstar-desk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Internal operations desk for Morning Star Limousine: bookings, dispatch, quotes, payments, chauffeurs, fleet and WhatsApp messages.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.14.0"
+  }
+}
